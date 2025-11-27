@@ -1,1 +1,0 @@
-const t="https://github.com/zyc-ctrl/zyc-ctrl.github.io/assets/logo-Co29R00y.png",o="https://github.com/zyc-ctrl/zyc-ctrl.github.io/assets/account-logo-D9-eMHsk.png",c=Object.freeze({title:"NaiveUiAdmin",logo:t,loginImage:o,loginDesc:"Naive Ui Admin 中后台前端/设计解决方案"});export{c as w};
